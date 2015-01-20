@@ -1,5 +1,5 @@
-Sainath Kurude
-133079017
+Satish
+133079018
 Mtech 2nd year
-Microelectronics
-FinFETs
+ES
+sigma
